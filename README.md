@@ -7,6 +7,6 @@ el trabajo esta realizado con Python en Jupyter Notebook y utiliza librerias pro
 
 En este proyecto se intenta construir una herramienta predictiva de la calidad de descanso en función de distintas variables ( edad, género, nivel de actividad física, nivel de éstres,  pasos realizados, pulsaciones, horas de descanso). 
 
-Autor: Lourdes Espinola.
+Nuestro modelo se ha entrenado correctamente. 
+![image](https://github.com/l6898/ML-salud-del-sue-o-y-estilo-de-vida./assets/152596780/bf0b3a71-9e6f-4695-bb2f-bf594c2333fa)
 
-conclusiones: nuestro modelo presenta underfiting, se esta trabajando en nuevos modelos de entrenamiento.
