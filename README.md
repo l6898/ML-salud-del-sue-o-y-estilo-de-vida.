@@ -9,4 +9,6 @@ En este proyecto se intenta construir una herramienta predictiva de la calidad d
 
 Nuestro modelo se ha entrenado correctamente. 
 ![image](https://github.com/l6898/ML-salud-del-sue-o-y-estilo-de-vida./assets/152596780/bf0b3a71-9e6f-4695-bb2f-bf594c2333fa)
+Con un margen de error del 30.4% introducimos los datos de un nuevo individuo ficticio y le pedimos a nuestro modelo que nos haga una predicción. Recordemos que lo que nos devuelve es el nivel de calidad de descanso.
+![image](https://github.com/l6898/ML-salud-del-sue-o-y-estilo-de-vida./assets/152596780/8bea2a7f-9769-4143-b603-bd3a3b98cd86)
 
